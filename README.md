@@ -1,4 +1,4 @@
-# terlido-com
+# Terlido
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,126 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-terlido-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://terlido.com/
+Terlido is a cold‑email and newsletter platform that sends from your own mailbox. It offers free warm‑up, daily sending limits per mailbox, AI‑assisted outreach, and integrates with Gmail, Google Workspace, Microsoft 365 and any SMTP service. The service includes a free tier, paid plans for newsletters and unlimited brands, and a 40 % Black Friday discount. It aims to help businesses acquire customers while keeping domain reputation safe.
+
+**Areas:** Company · Email · Newsletter · Cold-Email · AI
+
+## Terlido on APIs.io
+
+Everything profiled for Terlido is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/terlido-com/](https://apis.io/providers/terlido-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Terlido API](https://apis.io/apis/terlido-com/terlido-com-api/) — Terlido API as documented publicly. Contract generated from the documentation by API Evangelist (2026-11-26); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [PatchBroadcastsIdRequest](https://apis.io/schemas/terlido-com/terlido-com-patch-broadcasts-id-request/)
+- [PatchPublicationsIdRequest](https://apis.io/schemas/terlido-com/terlido-com-patch-publications-id-request/)
+- [PostBroadcastsIdCancelResponse](https://apis.io/schemas/terlido-com/terlido-com-post-broadcasts-id-cancel-response/)
+- [PostEnrollmentsRequest](https://apis.io/schemas/terlido-com/terlido-com-post-enrollments-request/)
+- [PostEnrollmentsResponse](https://apis.io/schemas/terlido-com/terlido-com-post-enrollments-response/)
+- [PostHooksRequest](https://apis.io/schemas/terlido-com/terlido-com-post-hooks-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Terlido Com Context](https://apis.io/jsonld/terlido-com/terlido-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Terlido API Rules](https://apis.io/rules/terlido-com/terlido-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Terlido Authentication](https://apis.io/security/terlido-com/terlido-com-authentication/)
+- [Terlido Domain Security](https://apis.io/security/terlido-com/terlido-com-domain-security/)
+- [Terlido Vulnerability Disclosure](https://apis.io/security/terlido-com/terlido-com-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Terlido Plans Pricing](https://apis.io/plans/terlido-com/terlido-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://terlido.com/)
+- [Documentation](https://help.terlido.com/)
+- [Pricing](https://terlido.com/pricing)
+- [Changelog](https://terlido.com/changelog)
+- [Blog](https://terlido.com/blog)
+- [Terms of service](https://terlido.com/terms)
+- [Privacy policy](https://terlido.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 52.9** — developing · rubric 0.29.0 · scored 2026-11-26
+
+| Facet | Score |
+|---|---|
+| Discoverability | 83.9 |
+| Contract quality | 53.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 23.8 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 59.1 |
+
+**Agent readiness 37.2** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | documented (partial credit) |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
+
+**Regulatory alignment 28.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/terlido-com/](https://apis.io/providers/terlido-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Terlido: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/terlido-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
