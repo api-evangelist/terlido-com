@@ -64,50 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Terlido is a cold‑email and newsletter platform that sends from your own mailbox. It offers free warm‑up, daily sending limits per mailbox, AI‑assisted outreach, and integrates with Gmail, Google Workspace, Microsoft 365 and any SMTP service. The service includes a free tier, paid plans for newsletters and unlimited brands, and a 40 % Black Friday discount. It aims to help businesses acquire customers while keeping domain reputation safe.
+Terlido is a cold email and newsletter platform that enables users to run outreach campaigns and send newsletters directly from their own mailboxes such as Gmail, Microsoft 365, or any SMTP service. The service combines AI agents like Claude and ChatGPT to draft content, supports multiple channels including email, LinkedIn, WhatsApp, and calls, and provides daily sending budgets to protect domain reputation. It offers free warm‑up on all plans, flexible pricing, and tools for managing contacts and campaigns, positioning itself as a comprehensive solution for SaaS founders and marketers.
 
-**Areas:** Company · Email · Newsletter · Cold-Email · AI
+**Areas:** Cold Email · Newsletter · Outreach · Email Deliverability · AI Agents
 
 ## Terlido on APIs.io
 
 Everything profiled for Terlido is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/terlido-com/](https://apis.io/providers/terlido-com/)** — or go straight to one of the APIs or properties below.
 
-### APIs (1)
-
-- [Terlido API](https://apis.io/apis/terlido-com/terlido-com-api/) — Terlido API as documented publicly. Contract generated from the documentation by API Evangelist (2026-11-26); not the provider's own document.
-
 ### Published properties
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-#### JSON Schema (6)
-
-The data models the API reads and writes.
-
-- [PatchBroadcastsIdRequest](https://apis.io/schemas/terlido-com/terlido-com-patch-broadcasts-id-request/)
-- [PatchPublicationsIdRequest](https://apis.io/schemas/terlido-com/terlido-com-patch-publications-id-request/)
-- [PostBroadcastsIdCancelResponse](https://apis.io/schemas/terlido-com/terlido-com-post-broadcasts-id-cancel-response/)
-- [PostEnrollmentsRequest](https://apis.io/schemas/terlido-com/terlido-com-post-enrollments-request/)
-- [PostEnrollmentsResponse](https://apis.io/schemas/terlido-com/terlido-com-post-enrollments-response/)
-- [PostHooksRequest](https://apis.io/schemas/terlido-com/terlido-com-post-hooks-request/)
-
-#### JSON-LD (1)
-
-Linked-data contexts for the provider's vocabulary.
-
-- [Terlido Com Context](https://apis.io/jsonld/terlido-com/terlido-com-context/)
-
-#### Governance rules (1)
-
-Spectral rulesets for the provider's contracts.
-
-- [Terlido API Rules](https://apis.io/rules/terlido-com/terlido-com-rules/)
-
-#### Security (3)
+#### Security (2)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Terlido Authentication](https://apis.io/security/terlido-com/terlido-com-authentication/)
 - [Terlido Domain Security](https://apis.io/security/terlido-com/terlido-com-domain-security/)
 - [Terlido Vulnerability Disclosure](https://apis.io/security/terlido-com/terlido-com-vulnerability-disclosure/)
 
@@ -124,6 +96,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 - [Website](https://terlido.com/)
 - [Documentation](https://help.terlido.com/)
 - [Pricing](https://terlido.com/pricing)
+- [Support](https://help.terlido.com)
 - [Changelog](https://terlido.com/changelog)
 - [Blog](https://terlido.com/blog)
 - [Terms of service](https://terlido.com/terms)
@@ -131,27 +104,27 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 52.9** — developing · rubric 0.29.0 · scored 2026-11-26
+**Kin Score 25.7** — emerging · rubric 0.28.0 · scored 2026-11-27
 
 | Facet | Score |
 |---|---|
-| Discoverability | 83.9 |
-| Contract quality | 53.5 |
-| Contract governance | 79.1 |
+| Discoverability | 58.9 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
 | Operational transparency | 23.8 |
-| Developer ergonomics | 23.8 |
+| Developer ergonomics | 16.7 |
 | Access clarity | 59.1 |
 
-**Agent readiness 37.2** — agent-ready
+**Agent readiness 21.8** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
-| Spec Presence | yes |
+| Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
 | MCP Server | documented (partial credit) |
 | Auth Clarity | served (partial credit) |
-| Idempotency | documented (partial credit) |
+| Idempotency | — |
 | Error Semantics | — |
 | OpenAPI Examples | — |
 | Rate Limit Signal | — |
@@ -168,11 +141,8 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
-| Onboarding Descriptor | — |
-| Dns Aid Index | na |
-| Markdown Negotiation | na |
 
-**Regulatory alignment 28.2** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 25.5** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/terlido-com/](https://apis.io/providers/terlido-com/).
 
